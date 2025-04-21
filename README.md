@@ -27,4 +27,4 @@ This project demonstrates how to use a neural network to perform sentiment analy
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/nural7h/IMDb-sentiment-analysis
